@@ -1,7 +1,5 @@
 # download_images_py
 
-![GitHub](https://img.shields.io/github/license/renatocfrancisco/download_images_py)
-![GitHub repo size](https://img.shields.io/github/repo-size/renatocfrancisco/download_images_py)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
 
